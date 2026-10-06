@@ -1,0 +1,9 @@
+file,label
+sample_normal_c26_0_0.png,normal
+sample_normal_c26_0_1.png,normal
+sample_stroma_c26_0_0.png,stroma
+sample_stroma_c26_0_1.png,stroma
+sample_tumor_c26_0_0.png,tumor
+sample_tumor_c26_0_1.png,tumor
+sample_tumor_stroma_c26_0_0.png,tumor_stroma
+sample_tumor_stroma_c26_0_1.png,tumor_stroma

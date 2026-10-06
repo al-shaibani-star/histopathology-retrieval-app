@@ -1,0 +1,11 @@
+# Model weights are 1.1 GB - over GitHub's 100 MB limit.
+# They are downloaded from Hugging Face at startup (see README).
+checkpoints/*.pth
+*.pth
+*.pt
+
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.venv/
+venv/
